@@ -1,0 +1,7 @@
+{
+  "name": "KarigarAI - Artisan Market Linkage & Smart Cataloging",
+  "description": "AI-powered market linkage and smart cataloging mobile platform empowering marginalized artisans with voice-assisted cataloging, background enhancement, fair pricing, multilingual storytelling, direct marketplace, and buyer chat.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
